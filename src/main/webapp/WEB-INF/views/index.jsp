@@ -20,7 +20,6 @@ $(document).ready(function() {
 	padding: 0 40px 30px 40px;
 }
 
-
 .carousel-control {
 	left: -12px;
 	height: 40px;
